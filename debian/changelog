@@ -1,3 +1,10 @@
+dde-app-services (1.0.44) unstable; urgency=medium
+
+  * fix: support uppercase filenames and prevent reload abort on partial
+    failure
+
+ -- zhangkun <zhangkun2@uniontech.com>  Thu, 14 May 2026 20:03:22 +0800
+
 dde-app-services (1.0.43) unstable; urgency=medium
 
   * fix: fix override path matching in reload hotloading
